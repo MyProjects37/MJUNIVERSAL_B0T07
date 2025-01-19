@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
 """<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
-IMDB_TEMPLATE_TEXT = "path/to/imdb_template.html
+IMDB_TEMPLATE_TEXT = "path/to/imdb_template.html"
 Query: {qurey}
 
 IMDb Data:
