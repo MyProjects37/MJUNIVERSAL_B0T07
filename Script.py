@@ -251,7 +251,7 @@ Nᴀᴍᴇ - {}"""
 IMDB_TEMPLATE_TEXT = "path/to/imdb_template.html"
 Query: {qurey}
 
-Title</b>: <a href={url}>{title}</a>
+Title: <a href={url}>{title}</a>
 Genres: {genres}
 Year: <a href={url}/releaseinfo>{year}</a>
 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
