@@ -260,7 +260,7 @@ IMDb Data:
   Languages : <code>{languages}</code>
  RunTime: {runtime} Minutes
  Release Info : {release_date}
- Countries : <code>{countries}</code> 
+ Countries : <code>{countries}</code> #
 
 
 Result Shown in: {remaining_seconds} <i>seconds</i> 
