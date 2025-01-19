@@ -267,7 +267,7 @@ Nᴀᴍᴇ - {}"""
 
 """Requested by : {message.from_user.mention}</b>"""
     
-    """ALL_FILTERS = """
+    # ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
     # GFILTER_TXT = """
