@@ -263,7 +263,7 @@ IMDb Data:
  Countries : <code>{countries}</code> 
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
 Requested by : {message.from_user.mention}</b>"""
     
@@ -302,7 +302,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
   
  ᴇxᴀᴍᴩʟᴇ :<code>/mp4 https://youtu.be/example...</code></b>""" 
   
-    TTS_TXT = """<b>ᴛᴛꜱ 🎤 ᴍᴏᴅᴜʟᴇ : ᴛʀᴀɴꜱʟᴀᴛᴇ ᴛᴇxᴛ ᴛᴏ ꜱᴩᴇᴇᴄʜ 
+    TTS_TXT = """<b>ᴛᴛꜱ  ᴍᴏᴅᴜʟᴇ : ᴛʀᴀɴꜱʟᴀᴛᴇ ᴛᴇxᴛ ᴛᴏ ꜱᴩᴇᴇᴄʜ 
   
  ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ : /tts</b>""" 
   
