@@ -246,7 +246,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """ 📂 <i><a href="https://telegram.me/MJUniversal">{file_name}</a></i>\n\n"""
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+"""<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
