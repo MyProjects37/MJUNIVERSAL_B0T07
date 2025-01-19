@@ -467,7 +467,7 @@ RESTART_TXT = """
 
 Bʏ @MJUniversalbot</b>"""
 
-    LOGO = """
+LOGO = """
 
  
 #     TAMIL_INFO = """
@@ -733,7 +733,7 @@ Bʏ @MJUniversalbot</b>"""
 # •> /rename - send any file and click rename option and type new file name and \nthen select [ document, video, audio ]👈 choice this.
 # """
 
-    STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
+STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 /stream - ɢᴇᴛ sᴛʀᴇᴀᴍᴀʙʟᴇ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅᴀʙʟᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ғɪʟᴇ</b>"""
 
