@@ -263,7 +263,7 @@ Release Info : {release_date}
 Countries : <code>{countries}</code>
 
 
-Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+Result Shown in: {remaining_seconds} <i>seconds</i>
 
 Requested by : {message.from_user.mention}</b>"""
     
