@@ -251,7 +251,7 @@ Nᴀᴍᴇ - {}"""
 IBDB_TEMPLATE_TEXT = "IMDB_TEMPLATE"
 query: "{qurey}"
 
-IMDbData: "ImdbData"
+IMDbData: "IMDB_TEMPLATE_TEXT"
 
 Title: "<a href={url}>{title}</a>"
 Genres: "{genres}"
