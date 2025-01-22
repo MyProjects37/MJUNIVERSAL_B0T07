@@ -263,9 +263,9 @@ RunTime: '{runtime} Minutes'
 ReleaseInfo : {'release_date'}
 Countries : '<code>{countries}</code>'
 
-Result Shown in: {remaining_seconds} <i>seconds</i>
+Result Shownin: {remaining_seconds} <i>seconds</i>
 
-Requested by : {message.from_user.mention}</b>"""
+Requestedby : """{message.from_user.mention}</b>"""
     
     # ALL_FILTERS = """
 # """<b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -458,12 +458,13 @@ Requested by : {message.from_user.mention}</b>"""
 
  
 RESTART_TXT = """
+
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
+Dᴀᴛᴇ : <code>{}</code>
+Tɪᴍᴇ : <code>{}</code>
+Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
 Bʏ @MJUniversalbot</b>"""
 
