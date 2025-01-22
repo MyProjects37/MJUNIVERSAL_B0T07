@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
 """<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
-IBDB_TEMPLATE_TEXT = "IBDB_TEMPLATE_TEXT"
+IBDB_TEMPLATE_TEXT = "IMDB_TEMPLATE"
 query: "{qurey}"
 
 IMDbData: "ImdbData"
