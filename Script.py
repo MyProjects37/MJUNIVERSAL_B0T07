@@ -248,24 +248,24 @@ Nᴀᴍᴇ - {}"""
 
 """<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
-IMDB_TEMPLATE_TXT = """
-query: "{qurey}"
+# IMDB_TEMPLATE_TXT = """
+# query: "{qurey}"
 
-IMDbData: "IMDB_TEMPLATE_TXT"
+# IMDbData: "IMDB_TEMPLATE_TXT"
 
-Title: "<a href={url}>{title}</a>"
-Genres: "{genres}"
-Year: "<a href={url}/releaseinfo>{year}</a>"
-Rating: "<a href={url}/ratings>{rating}</a> / 10;"
-('based on {votes} user ratings.')
-Languages : '<code>{languages}</code>'
-RunTime: '{runtime} Minutes'
-ReleaseInfo : {'release_date'}
-Countries : '<code>{countries}</code>'
+# Title: "<a href={url}>{title}</a>"
+# Genres: "{genres}"
+# Year: "<a href={url}/releaseinfo>{year}</a>"
+# Rating: "<a href={url}/ratings>{rating}</a> / 10;"
+# ('based on {votes} user ratings.')
+# Languages : '<code>{languages}</code>'
+# RunTime: '{runtime} Minutes'
+# ReleaseInfo : {'release_date'}
+# Countries : '<code>{countries}</code>'
 
-# Result Shownin: {remaining_seconds} <i>seconds</i>
+# # Result Shownin: {remaining_seconds} <i>seconds</i>
 
-Requestedby : """{message.from_user.mention}</b>"""
+# Requestedby : """{message.from_user.mention}</b>"""
     
     # ALL_FILTERS = """
 # """<b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
