@@ -263,7 +263,7 @@ RunTime: '{runtime} Minutes'
 ReleaseInfo : {'release_date'}
 Countries : '<code>{countries}</code>'
 
-Result Shownin: {remaining_seconds} <i>seconds</i>
+# Result Shownin: {remaining_seconds} <i>seconds</i>
 
 Requestedby : """{message.from_user.mention}</b>"""
     
