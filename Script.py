@@ -248,10 +248,10 @@ Nᴀᴍᴇ - {}"""
 
 """<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
-IMDB_TEMPLATE_TEXT = "IMDB_TEMPLATE_TXT"
+IMDB_TEMPLATE_TXT = """
 query: "{qurey}"
 
-IMDbData: "IMDB_TEMPLATE_TEXT"
+IMDbData: "IMDB_TEMPLATE_TXT"
 
 Title: "<a href={url}>{title}</a>"
 Genres: "{genres}"
