@@ -248,7 +248,7 @@ Nᴀᴍᴇ - {}"""
 
 """<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
-IMDB_TEMPLATE_TEXT = IMDB_TEMPLATE_TXT
+IMDB_TEMPLATE_TEXT = IMDB_TEMPLATE_TXT"""
 query: {'query'}
 
 IMDbData: ""
