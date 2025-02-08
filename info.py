@@ -11,9 +11,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', '28842227'))
+API_ID = int(environ.get('API_ID', ''))
 API_HASH = environ.get('API_HASH', '0f4d6c063dbad2f318198ff70cdefa02')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7961750300:AAFUp6YWVBePdUXa7088CI5oFaq581zivRo")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
@@ -55,7 +55,7 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://MJUniversal:wetOnvY2LVUIjUGB@cluster0.tt9ea.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")   # IF Multiple Database Is False Then Fill Only This Database Url.
+DATABASE_URI = environ.get('DATABASE_URI', "")   # IF Multiple Database Is False Then Fill Only This Database Url.
 DATABASE_NAME = environ.get('DATABASE_NAME', "MJUniversal")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'vjcollection')
 
